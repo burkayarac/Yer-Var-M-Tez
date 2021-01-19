@@ -1,0 +1,12 @@
+/* General Section */
+body {
+    --primary-color:#F43D13;
+    --primary-light-color:#E8750C;
+    --bg-color:#FFA10D;
+    background-color: var(--bg-color);
+}
+
+/* Header Section */
+
+
+/* Index Section */
